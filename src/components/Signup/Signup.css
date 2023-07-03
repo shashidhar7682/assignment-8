@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,500;1,400&family=Berkshire+Swash&family=Carter+One&family=DM+Serif+Text:ital@1&family=Khand&family=Oleo+Script&family=Permanent+Marker&family=Righteous&display=swap');
+.form-check{
+    display: block;
+    margin: auto;
+}
+h2{
+    font-family: 'Berkshire Swash', cursive;
+    color: rgb(239, 77, 104);
+}
+.reg{
+    background-color: white;
+    max-width: 40rem;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: rgb(239, 77, 104) 2px 2px 10px;
+    margin-bottom: 5rem!important;
+}
+.btn{
+    background-color: rgb(239, 77, 104);
+    color: white;
+}
+.btn:hover{
+    background-color: rgb(240, 139, 156);
+    color: white;
+}
